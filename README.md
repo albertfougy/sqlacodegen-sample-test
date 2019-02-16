@@ -1,1 +1,1 @@
-# sqlacodegen-sample-test
+# sqlacodegen sample test
